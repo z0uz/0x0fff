@@ -297,7 +297,7 @@ GitHub Hunter is intended for legitimate research and networking purposes. Users
 
 **Happy Hunting!**
 
-Made with ❤️ by the GitHub Hunter Team
+Made with ❤️ by z0uz
 
 [![GitHub stars](https://img.shields.io/github/stars/username/0x0fff.svg?style=social&label=Star)](https://github.com/username/0x0fff)
 [![GitHub forks](https://img.shields.io/github/forks/username/0x0fff.svg?style=social&label=Fork)](https://github.com/username/0x0fff/fork)
