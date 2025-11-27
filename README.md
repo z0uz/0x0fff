@@ -291,13 +291,6 @@ GitHub Hunter is intended for legitimate research and networking purposes. Users
 - **jq** - For powerful JSON processing capabilities
 - **The open source community** - For inspiration and feedback
 
-## Support
-
-- **Email**: support@github-hunter.dev
-- **Issues**: [GitHub Issues](https://github.com/username/0x0fff/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/username/0x0fff/discussions)
-- **Documentation**: [Wiki](https://github.com/username/0x0fff/wiki)
-
 ---
 
 <div align="center">
